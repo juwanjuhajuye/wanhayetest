@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">dataCapTest3</string>
+    <string name="authorize_sale">authorize sale</string>
+    <string name="put_some_text_here">Put some text here</string>
+    <string name="sale_amount">Enter sale amount (Two digits required after decimal point)</string>
+    <string name="tip_amount">Enter tip amount Two digits required after decimal point)</string>
+    <string name="void_sale">void sale</string>
+    <string name="return_sale">return sale</string>
+    <string name="col1">Order #</string>
+    <string name="col2">Auth #</string>
+    <string name="col3">Ref #</string>
+    <string name="col4">Amount</string>
+    <string name="col5">Tip</string>
+    <string name="col6">Total</string>
+    <string name="col7">Batch#</string>
+    <string name="col8">Status</string>
+    <string name="col9">Type</string>
+    <string name="add_to_table">add to table</string>
+    <string name="download_param">Download Param</string>
+    <string name="batch_summary">Batch Summary</string>
+    <string name="batch_close">Close Batch</string>
+</resources>
